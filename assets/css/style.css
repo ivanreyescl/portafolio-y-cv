@@ -116,7 +116,7 @@ body {
 .bg-header5 {
   background-image: url(../img/fondo1.jpg);
   background-size: cover;
-  height: calc(100vh - 120px - 90px);
+  min-height: 85vh;
   background-position: center;
   padding-top: 4%;
 }
